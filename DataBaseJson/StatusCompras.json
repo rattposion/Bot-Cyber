@@ -1,1 +1,59 @@
-{}
+{
+    "2725100": {
+        "Status": "Entregue",
+        "user": "1367164251294273658",
+        "GuildServerID": "1374813016708616212",
+        "ID": "carrinho_1367164251294273658",
+        "IdCompra": "2725100",
+        "Metodo": "Saldo",
+        "Data": "2025-05-26T03:37:58.768Z",
+        "messageinfoprodutos": "TESTE x1",
+        "canal": "1374914543909732362",
+        "msg": "1376403904149061735",
+        "ProdutosComprados": "TESTE - 1\n",
+        "valortotal": "1.00",
+        "produtosentregue": "📦 | Entrega do Produto: TESTE - 1/1\n1\n\n"
+    },
+    "112315293417": {
+        "Status": "Cancelado"
+    },
+    "112315710761": {
+        "Status": "Cancelado"
+    },
+    "112782105610": {
+        "Status": "Cancelado"
+    },
+    "112363778931": {
+        "Status": "Cancelado"
+    },
+    "112829611864": {
+        "Status": "Cancelado",
+        "user": "1367164251294273658",
+        "GuildServerID": "1374813016708616212",
+        "ID": "carrinho_1367164251294273658",
+        "canal": "1374914543909732362",
+        "msg": "1376404957657301023",
+        "type": "pix"
+    },
+    "971e551bd506452288a5d7447b730017": {
+        "Status": "Cancelado"
+    },
+    "d4d8dfdc235a43cd8bd2841fe88d059d": {
+        "Status": "Cancelado",
+        "user": "1367164251294273658",
+        "GuildServerID": "1374813016708616212",
+        "ID": "carrinho_1367164251294273658",
+        "canal": "1374914543909732362",
+        "msg": "1376409357289521204",
+        "type": "pix"
+    },
+    "ba608e17138244a9aabbd1cee55359e9": {
+        "Status": "Cancelado",
+        "user": "1367164251294273658",
+        "GuildServerID": "1374813016708616212",
+        "ID": "carrinho_1367164251294273658",
+        "canal": "1374914543909732362",
+        "msg": "1376409609522380903",
+        "type": "pix"
+    }
+}
