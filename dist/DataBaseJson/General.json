@@ -1,0 +1,101 @@
+{
+    "ConfigGeral": {
+        "Status": "ON",
+        "ColorEmbed": "#008000",
+        "TermosCompra": "Não definido",
+        "MercadoPagoConfig": {
+            "PixToggle": "OFF",
+            "SiteToggle": "OFF",
+            "TimePagament": "20",
+            "TokenAcessMP": ""
+        },
+        "SaldoConfig": {
+            "SaldoStatus": "ON",
+            "Bonus": "5",
+            "ValorMinimo": "5"
+        },
+        "SemiAutoConfig": {
+            "SemiAutoStatus": "OFF",
+            "pix": "",
+            "qrcode": ""
+        },
+        "CashBack": {
+            "ToggleCashBack": "OFF",
+            "Porcentagem": "10"
+        },
+        "StatusBot": {
+            "typestatus": null,
+            "ativistatus": null,
+            "textstatus": null,
+            "urlstatus": null
+        },
+        "lenguage": "BRL",
+        "EstiloMensagens": false,
+        "ChannelsConfig": {
+            "ChangeChannelMod": "1374914543909732362",
+            "ChannelCategoriaShop": "1374813016708616213",
+            "ChannelLogAdm": "1374914543909732362",
+            "ChannelLogPublica": "1374914543909732362",
+            "feedbacks": "1374914543909732362",
+            "ChannelInvites": "1374914543909732362"
+        },
+        "EfiBank": {
+            "status": false
+        },
+        "Nubank": {
+            "typebank": "picpay"
+        },
+        "AutoMessage": [
+            [
+                {
+                    "titulo": "",
+                    "descricao": "Teste",
+                    "bannerembed": "",
+                    "time": "20",
+                    "idchanell": "1374914529984512052",
+                    "buttons": [
+                        {
+                            "label": "ee",
+                            "url": "https://aliensales.xyz",
+                            "emoji": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "emojis": {
+        "1_a": "<:1_a:1376571758034817107>",
+        "2_a": "<:2_a:1376571763810635808>",
+        "3_a": "<:3_a:1376571769573343405>",
+        "4_a": "<:4_a:1376571775164354631>",
+        "5_a": "<:5_a:1376571780969533490>",
+        "6_a": "<:6_a:1376571786895953981>",
+        "7_a": "<:7_a:1376571792788820061>",
+        "8_a": "<:8_a:1376571798618898584>",
+        "loading_promisse": "<a:loading_promisse:1376571804797239339>",
+        "certo": "<:certo:1376571810614743211>",
+        "errado": "<:errado:1376571816776171671>",
+        "bolsaV": "<:bolsaV:1376571822799192204>",
+        "chavefenda": "<:chavefenda:1376571828557844625>",
+        "pessoafone": "<:pessoafone:1376571834358693979>",
+        "caixa": "<:caixa:1376571840251695174>",
+        "dev": "<:dev:1376571845913870396>",
+        "info": "<:info:1376571884086493255>",
+        "desligado": "<:desligado:1376571889870176256>",
+        "ligado": "<:ligado:1376571895922692106>",
+        "bolinha": "<:bolinha:1376571902159753246>",
+        "sacola": "<:sacola:1376571908178444358>",
+        "entrada": "<:entrada:1376571913928966217>",
+        "saida": "<:saida:1376571920018833499>",
+        "lock": "<:lock:1376571926218014730>",
+        "unlock": "<:unlock:1376571932077723809>",
+        "calendarioooo": "<:calendarioooo:1376571937765195776>",
+        "carrinhobranco": "<:carrinhobranco:1376571943855194115>",
+        "dinheiro2": "<:dinheiro2:1376571949794201691>",
+        "giveaway": "<a:giveaway:1376571956224331817>",
+        "usuario2": "<:usuario2:1376571961928581131>",
+        "estrelinha": "<a:estrelinha:1376571968484147220>",
+        "setinha": "<a:setinha:1376571974314365028>"
+    }
+}
