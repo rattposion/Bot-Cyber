@@ -1,0 +1,55 @@
+{
+    "emojis": {
+        "1_a": "<:1_a:1378778891971330108>",
+        "2_a": "<:2_a:1378778896794652712>",
+        "3_a": "<:3_a:1378778901630685266>",
+        "4_a": "<:4_a:1378778906718502912>",
+        "5_a": "<:5_a:1378778911835426837>",
+        "6_a": "<:6_a:1378778916600414250>",
+        "7_a": "<:7_a:1378778921931116654>",
+        "8_a": "<:8_a:1378778926675132436>",
+        "loading_promisse": "<a:loading_promisse:1378778931683004577>",
+        "certo": "<:certo:1378778936837800046>",
+        "errado": "<:errado:1378778941652996116>",
+        "bolsaV": "<:bolsaV:1378778946518126663>",
+        "chavefenda": "<:chavefenda:1378778950968545404>",
+        "pessoafone": "<:pessoafone:1378778956114821233>",
+        "caixa": "<:caixa:1378778961563091097>",
+        "dev": "<:dev:1378778966659432550>",
+        "info": "<:info:1378778971562315917>",
+        "desligado": "<:desligado:1378778976402542623>",
+        "ligado": "<:ligado:1378778981129519296>",
+        "bolinha": "<:bolinha:1378778986338979932>",
+        "sacola": "<:sacola:1378778991158231160>",
+        "entrada": "<:entrada:1378778995981684736>",
+        "saida": "<:saida:1378779006178168972>",
+        "lock": "<:lock:1378779010938437773>",
+        "unlock": "<:unlock:1378779015934120118>",
+        "calendarioooo": "<:calendarioooo:1378779020627415191>",
+        "carrinhobranco": "<:carrinhobranco:1378779025740271796>",
+        "dinheiro2": "<:dinheiro2:1378779030525841469>",
+        "giveaway": "<a:giveaway:1378779035311669410>",
+        "usuario2": "<:usuario2:1378779040437113064>",
+        "estrelinha": "<a:estrelinha:1378779045432660020>",
+        "setinha": "<a:setinha:1378779050126086218>"
+    },
+    "ConfigGeral": {
+        "emojiduvidas": "📃",
+        "channelredirectduvidas": "https://discord.com/channels/1145489377968005212/1279081765516083243",
+        "textoduvidas": "Abrir  ticket",
+        "statusduvidas": false,
+        "AutoReact": {
+            "emoji": "🎁"
+        },
+        "ChannelsConfig": {
+            "CargoCliente": "1378409780070187092",
+            "CargoAdm": "1378409777763455169",
+            "ChannelCategoriaShop": "1378784739921494106",
+            "feedbacks": "1378785041932615892",
+            "ChannelLogAdm": "1378785366630203554",
+            "ChangeChannelMod": "1378784630941155379"
+        },
+        "statuslogcompras": false,
+        "EstiloMensagens": true
+    }
+}
